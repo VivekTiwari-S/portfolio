@@ -1,9 +1,8 @@
 # Portfolio Website 🌐
 
 Welcome to my **personal portfolio website**! This site showcases my projects, skills, achievements, and resume in a simple, clean, and responsive layout.
-
+<!--
 ---
-
 ## 🗂️ Directory Structure
 
 ```text
@@ -47,7 +46,7 @@ Welcome to my **personal portfolio website**! This site showcases my projects, s
 ├── vivek_cv.pdf
 └── README.md
 ```
-
+-->
 ---
 
 ## 🚀 Features
@@ -68,7 +67,7 @@ Welcome to my **personal portfolio website**! This site showcases my projects, s
 
 ---
 
-## 📄 License
+## 📄 Developer
 
 This portfolio is developed by **Vivek Tiwari** and is open for personal viewing or inspiration, but not for direct reproduction.
 
